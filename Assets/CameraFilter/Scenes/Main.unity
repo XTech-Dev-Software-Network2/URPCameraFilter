@@ -2121,10 +2121,18 @@ MonoBehaviour:
   CameraImage: {fileID: 247470135}
   FilterContent: {fileID: 883771271}
   Filters:
+  - Material: {fileID: 2100000, guid: b8fa58257cb6243088c5ff9424842df1, type: 2}
+    FilterName: Asada
   - Material: {fileID: 2100000, guid: 25e38de0c3ae3439bb28b3a317e94ffc, type: 2}
     FilterName: Gray
+  - Material: {fileID: 2100000, guid: e0ba055523ba44e3481665f122a9155e, type: 2}
+    FilterName: Higashi
   - Material: {fileID: 2100000, guid: ef8e554e95889404ea201340a765b7fa, type: 2}
     FilterName: Invert
+  - Material: {fileID: 2100000, guid: b30f9340ad9f34ff290e8419c6457cde, type: 2}
+    FilterName: Ryuichi
+  - Material: {fileID: 2100000, guid: f3485db5c4dba4eceadff6eaceb46795, type: 2}
+    FilterName: taisei
   PrefabCameraFilter: {fileID: 5191861473959576088, guid: b7f551c3b5e294126a544dbc8359e3d0, type: 3}
   alphaTextManager: {fileID: 980292981}
   alphaControl: {fileID: 1202052386}
